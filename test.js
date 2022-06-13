@@ -1,1 +1,1 @@
-
+document.getdlementbyID('g');
